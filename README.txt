@@ -1,1 +1,1 @@
-Se debe configurar la cadena de coneccion en appsettings.json espesificando el nombre de la base de datos la cual sera creada
+Se debe configurar la cadena de coneccion en appsettings.json espesificando el nombre de la base de datos la cual sera creada si no existe al momento de iniciar la aplicacion al igual que si hay migraciones pendientes estavan a ser ejecutadas automaticamente al inicio.
